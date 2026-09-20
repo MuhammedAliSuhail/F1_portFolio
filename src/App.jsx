@@ -8,6 +8,7 @@ import ProjectsShowcase from './components/ProjectsShowcase';
 import PitStopGame from './components/PitStopGame';
 import TerminalCLI from './components/TerminalCLI';
 import ContactRadio from './components/ContactRadio';
+
 import Footer from './components/Footer';
 
 export default function App() {
